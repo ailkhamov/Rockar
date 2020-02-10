@@ -14,9 +14,9 @@ h1 {
 }
 
 .container-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
+  float: left;
+  border-color: black;
   width: 50%;
 }
 
